@@ -1,0 +1,27 @@
+\begin{thebibliography}{1}
+
+\bibitem{WikiThompson}
+\url{http://en.wikipedia.org/wiki/Thomson_problem}.
+
+\bibitem{WikiSphere}
+\url{http://en.wikipedia.org/wiki/Spherical_coordinate_system}.
+
+\bibitem{PV2013}
+Y.~Plan and R.~Vershynin.
+\newblock One-bit compressed sensing by linear programming.
+\newblock {\em Communications on Pure and Applied Mathematics}, 66:1275--1297,
+  2013.
+
+\bibitem{SpherePack}
+\url{http://www-lp.fmf.uni-lj.si/plestenjak/talks/preddvor.pdf}.
+
+\bibitem{NW2006}
+J.~Nocedal and S.~Wright.
+\newblock {\em Numerical Optimization}.
+\newblock Springer, 2nd edition, 2006.
+
+\bibitem{Gleich2008}
+D.~Gleich.
+\newblock \url{https://www.cs.purdue.edu/homes/dgleich/cs520-2014/}.
+
+\end{thebibliography}

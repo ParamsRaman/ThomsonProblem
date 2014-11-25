@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: report.aux
+The style file: unsrt.bst
+Database file #1: Bibliography.bib
+Warning--empty author in WikiThompson
+Warning--empty journal in WikiThompson
+Warning--empty year in WikiThompson
+Warning--empty author in WikiSphere
+Warning--empty journal in WikiSphere
+Warning--empty year in WikiSphere
+Warning--empty author in SpherePack
+Warning--empty journal in SpherePack
+Warning--empty year in SpherePack
+Warning--empty journal in Gleich2008
+Warning--empty year in Gleich2008
+You've used 6 entries,
+            1791 wiz_defined-function locations,
+            473 strings with 4065 characters,
+and the built_in function-call counts, 871 in all, are:
+= -- 64
+> -- 23
+< -- 0
++ -- 11
+- -- 5
+* -- 59
+:= -- 128
+add.period$ -- 11
+call.type$ -- 6
+change.case$ -- 6
+chr.to.int$ -- 0
+cite$ -- 17
+duplicate$ -- 51
+empty$ -- 101
+format.name$ -- 5
+if$ -- 188
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 7
+newline$ -- 26
+num.names$ -- 3
+pop$ -- 34
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 22
+stack$ -- 0
+substring$ -- 27
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 11
+while$ -- 4
+width$ -- 7
+write$ -- 46
+(There were 11 warnings)
