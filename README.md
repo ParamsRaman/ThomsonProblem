@@ -5,6 +5,10 @@ The objective of the Thomson problem is to determine the minimum electrostatic p
 
 In this project, we study the effects of using various optimization approaches to solving this problem with high N (data points a.k.a electrons) and high D (dimensions).
 
+For details, please refer to the report: 
+
+ThomsonProblem / report / report.pdf
+
 # Source Code
 
 We implemented most of the optimization methods in Matlab and for some of them we used the Poblano Matlab toolbox from https://software.sandia.gov/trac/poblano.
