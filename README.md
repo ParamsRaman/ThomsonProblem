@@ -11,4 +11,6 @@ We implemented most of the optimization methods in Matlab and for some of them w
 
 # Members
 
+yang768@purdue.edu
 
+ramanp@purdue.edu
